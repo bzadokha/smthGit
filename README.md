@@ -1,0 +1,2 @@
+# smthGit
+only train
